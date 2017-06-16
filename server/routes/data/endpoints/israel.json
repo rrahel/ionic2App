@@ -1,0 +1,2887 @@
+[{
+    "date": {
+        "day": 16,
+        "month": 3,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 17,
+        "month": 3,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 8,
+        "year": 2014,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 26,
+        "month": 9,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 4,
+        "month": 10,
+        "year": 2014,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 9,
+        "month": 10,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 16,
+        "month": 10,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 3,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 6,
+        "month": 3,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 4,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 26,
+        "month": 7,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 14,
+        "month": 9,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 15,
+        "month": 9,
+        "year": 2015,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 9,
+        "year": 2015,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2016,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 29,
+        "month": 4,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 12,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 8,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 4,
+        "month": 10,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2016,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 17,
+        "month": 10,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 10,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 3,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 13,
+        "month": 3,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 8,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 21,
+        "month": 9,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 22,
+        "month": 9,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2017,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 2,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 22,
+        "month": 7,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 10,
+        "month": 9,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 11,
+        "month": 9,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 9,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 11,
+        "month": 8,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 9,
+        "month": 10,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 10,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 10,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 3,
+        "year": 2020,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 11,
+        "month": 3,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 29,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 30,
+        "month": 7,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 20,
+        "month": 9,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 10,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 26,
+        "month": 2,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 27,
+        "month": 2,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 18,
+        "month": 7,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 7,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 8,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 16,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 17,
+        "month": 3,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 8,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 26,
+        "month": 9,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 27,
+        "month": 9,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2022,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 10,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 17,
+        "month": 10,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 3,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 8,
+        "month": 3,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 12,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 27,
+        "month": 7,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 16,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 17,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 10,
+        "year": 2023,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 29,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 13,
+        "month": 8,
+        "year": 2024,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 4,
+        "month": 10,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2024,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 17,
+        "month": 10,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 10,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 3,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 15,
+        "month": 3,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 8,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 23,
+        "month": 9,
+        "year": 2025,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 2,
+        "month": 10,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 10,
+        "year": 2025,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 10,
+        "year": 2025,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 3,
+        "year": 2026,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2026,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 7,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 12,
+        "month": 9,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 13,
+        "month": 9,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 9,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 26,
+        "month": 9,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 24,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2027,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 12,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 8,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 2,
+        "month": 10,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 11,
+        "month": 10,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 16,
+        "month": 10,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 10,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 3,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 13,
+        "month": 3,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 8,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 21,
+        "month": 9,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 22,
+        "month": 9,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 2,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 22,
+        "month": 7,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 10,
+        "month": 9,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 11,
+        "month": 9,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 3,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 20,
+        "month": 3,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 24,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 8,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 8,
+        "month": 8,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2030,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 29,
+        "month": 9,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 10,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2030,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 10,
+        "year": 2030,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 9,
+        "month": 3,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 10,
+        "month": 3,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 29,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 29,
+        "month": 7,
+        "year": 2031,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 18,
+        "month": 9,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 27,
+        "month": 9,
+        "year": 2031,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 2,
+        "month": 10,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 9,
+        "month": 10,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 26,
+        "month": 2,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 27,
+        "month": 2,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 27,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 18,
+        "month": 7,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 6,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 7,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 15,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 20,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 27,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 15,
+        "month": 3,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 16,
+        "month": 3,
+        "year": 2033,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 4,
+        "month": 8,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 8,
+        "month": 10,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 15,
+        "month": 10,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 3,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 6,
+        "month": 3,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 4,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 25,
+        "month": 7,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 14,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 15,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 24,
+        "month": 4,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 30,
+        "month": 4,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 15,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 8,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 4,
+        "month": 10,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 13,
+        "month": 10,
+        "year": 2035,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 18,
+        "month": 10,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 25,
+        "month": 10,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 13,
+        "month": 3,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 14,
+        "month": 3,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 12,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 8,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 22,
+        "month": 9,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 23,
+        "month": 9,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2036,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 6,
+        "month": 10,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 13,
+        "month": 10,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 3,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 2,
+        "month": 3,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2037,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 7,
+        "year": 2037,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 10,
+        "month": 9,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 11,
+        "month": 9,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 11,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2038,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 9,
+        "month": 10,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 14,
+        "month": 10,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 21,
+        "month": 10,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 3,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 11,
+        "month": 3,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e4\u05d5\u05e8\u05d9\u05dd (Purim)",
+    "englishName": "Feast of Purim",
+    "note": "Optional. Observed in Jerusalem and all ancient walled cities."
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 6
+    },
+    "localName": "\u05e4\u05e1\u05d7 (Pesach)",
+    "englishName": "Passover"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "\u05e9\u05d1\u05d9\u05e2\u05d9 \u05e9\u05dc \u05e4\u05e1\u05d7 (Shvi'i shel Pesach)",
+    "englishName": "Seventh day of Passover"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea (Yom Ha-Atzmaut)",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05e9\u05d1\u05d5\u05e2\u05d5\u05ea (Shavuot)",
+    "englishName": "Feast of Shavuot (Pentecost)"
+}, {
+    "date": {
+        "day": 31,
+        "month": 7,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "\u05ea\u05e9\u05e2\u05d4 \u05d1\u05d0\u05d1 (Tisha B'Av)",
+    "englishName": "Fast of Ninth of Av",
+    "note": "Optional"
+}, {
+    "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 20,
+        "month": 9,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "\u05e8\u05d0\u05e9 \u05d4\u05e9\u05e0\u05d4 (Rosh Hashanah)",
+    "englishName": "Rosh Hashanah (New Year)"
+}, {
+    "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2039,
+        "dayOfWeek": 3
+    },
+    "localName": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8 (Yom Kippur)",
+    "englishName": "Day of Atonement (Yom Kippur)"
+}, {
+    "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e1\u05d5\u05db\u05d5\u05ea (Sukkot)",
+    "englishName": "First Day of Sucot (Tabernacles)"
+}, {
+    "date": {
+        "day": 10,
+        "month": 10,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "\u05e9\u05de\u05d7\u05ea \u05ea\u05d5\u05e8\u05d4\/\u05e9\u05de\u05d9\u05e0\u05d9 \u05e2\u05e6\u05e8\u05ea (Simchat Torah\/Shemini Atzeret)",
+    "englishName": "Last Day of Sucot (Tabernacles)"
+}]

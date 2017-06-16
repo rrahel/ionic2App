@@ -1,0 +1,3294 @@
+[{
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2013,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2013,
+        "dayOfWeek": 6
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 6,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Jun 2013"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2013,
+        "dayOfWeek": 2
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 27 Apr 2014"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "Election Day",
+    "englishName": "Election Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2014,
+        "dayOfWeek": 6
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2015,
+        "dayOfWeek": 2
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 9 Aug 2015"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2016,
+        "dayOfWeek": 3
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 May 2016"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 8,
+        "year": 2016,
+        "dayOfWeek": 3
+    },
+    "localName": "Local Government Election Day",
+    "englishName": "Local Government Election Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2016,
+        "dayOfWeek": 6
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "Additional Christmas Holiday",
+    "englishName": "Additional Christmas Holiday",
+    "note": "Holiday in lieu of 25 Dec 2016"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 Jan 2017"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 24 Sep 2017"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2018,
+        "dayOfWeek": 6
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 17,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Dec 2018"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 6
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Jun 2019"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2020,
+        "dayOfWeek": 2
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 9 Aug 2020"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 21 Mar 2021"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 2
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2021,
+        "dayOfWeek": 3
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 26 Dec 2021"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2022,
+        "dayOfWeek": 6
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 3
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 May 2022"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2022,
+        "dayOfWeek": 6
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 Jan 2023"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 24 Sep 2023"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 6
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 6,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Jun 2024"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2024,
+        "dayOfWeek": 2
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 27 Apr 2025"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2026,
+        "dayOfWeek": 2
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 9 Aug 2026"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 21 Mar 2027"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2027,
+        "dayOfWeek": 2
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2027,
+        "dayOfWeek": 3
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 26 Dec 2027"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 24 Sep 2028"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2029,
+        "dayOfWeek": 6
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 17,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Dec 2029"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 6
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Jun 2030"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 27 Apr 2031"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2031,
+        "dayOfWeek": 6
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 21 Mar 2032"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2032,
+        "dayOfWeek": 2
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2032,
+        "dayOfWeek": 3
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 26 Dec 2032"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 3
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 May 2033"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 Jan 2034"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 24 Sep 2034"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 23,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2035,
+        "dayOfWeek": 6
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 17,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 16 Dec 2035"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 27 Apr 2036"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2036,
+        "dayOfWeek": 6
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2036,
+        "dayOfWeek": 3
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2037,
+        "dayOfWeek": 2
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 9 Aug 2037"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 3
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 21 Mar 2038"
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 2
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 3
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 26 Dec 2038"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2039,
+        "dayOfWeek": 6
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Human Rights Day",
+    "englishName": "Human Rights Day"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Family Day",
+    "englishName": "Family Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 3
+    },
+    "localName": "Freedom Day",
+    "englishName": "Freedom Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "Workers' Day",
+    "englishName": "Workers' Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Public holiday",
+    "englishName": "Public holiday",
+    "note": "Holiday in lieu of 1 May 2039"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "Youth Day",
+    "englishName": "Youth Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "National Women's Day",
+    "englishName": "National Women's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2039,
+        "dayOfWeek": 6
+    },
+    "localName": "Heritage Day",
+    "englishName": "Heritage Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Day of Reconciliation",
+    "englishName": "Day of Reconciliation"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Day of Goodwill",
+    "englishName": "Day of Goodwill"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2040,
+        "dayOfWeek": 7
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}]

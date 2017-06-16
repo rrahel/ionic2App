@@ -1,0 +1,2285 @@
+[{
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 7,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2015"
+}, {
+    "date": {
+        "day": 31,
+        "month": 8,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2015"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 8,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2016"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2016"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2017"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 8,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 8,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 8,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 7,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2020"
+}, {
+    "date": {
+        "day": 31,
+        "month": 8,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2020"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 8,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2021"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2021"
+}, {
+    "date": {
+        "day": 3,
+        "month": 1,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2022"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 8,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2022"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2022"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2023"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 8,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 6,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 8,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 7,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2025"
+}, {
+    "date": {
+        "day": 25,
+        "month": 8,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 7,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2026"
+}, {
+    "date": {
+        "day": 31,
+        "month": 8,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2026"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 8,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2027"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2027"
+}, {
+    "date": {
+        "day": 3,
+        "month": 1,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2028"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 8,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 8,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 8,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 7,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2031"
+}, {
+    "date": {
+        "day": 25,
+        "month": 8,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 8,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2032"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2032"
+}, {
+    "date": {
+        "day": 3,
+        "month": 1,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2033"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 8,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2033"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2033"
+}, {
+    "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2034"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 8,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 23,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 8,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 7,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2036"
+}, {
+    "date": {
+        "day": 25,
+        "month": 8,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 7,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day",
+    "note": "Holiday in lieu of 5 Jul 2037"
+}, {
+    "date": {
+        "day": 31,
+        "month": 8,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2037"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 8,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2038"
+}, {
+    "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2038"
+}, {
+    "date": {
+        "day": 3,
+        "month": 1,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "New Year's Day",
+    "englishName": "New Year's Day",
+    "note": "Holiday in lieu of 1 Jan 2039"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Good Friday",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Easter Monday",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Early May Bank Holiday",
+    "englishName": "Early May Bank Holiday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Late May Bank Holiday",
+    "englishName": "Late May Bank Holiday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Senior Race Day",
+    "englishName": "Senior Race Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "Tynwald Day",
+    "englishName": "Tynwald Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 8,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Summer Bank Holiday",
+    "englishName": "Summer Bank Holiday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Christmas Day",
+    "englishName": "Christmas Day",
+    "note": "Holiday in lieu of 25 Dec 2039"
+}, {
+    "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "Boxing Day",
+    "englishName": "Boxing Day",
+    "note": "Holiday in lieu of 26 Dec 2039"
+}]

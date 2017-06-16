@@ -1,0 +1,3403 @@
+[{
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2011,
+        "dayOfWeek": 6
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2011,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 24,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2011,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 23,
+        "month": 6,
+        "year": 2011,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2011,
+        "dayOfWeek": 2
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2011,
+        "dayOfWeek": 5
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2012,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 6,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2012,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2012,
+        "dayOfWeek": 2
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2012,
+        "dayOfWeek": 3
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2013,
+        "dayOfWeek": 2
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 19,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2014,
+        "dayOfWeek": 6
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2014,
+        "dayOfWeek": 2
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2015,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2015,
+        "dayOfWeek": 3
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2016,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 27,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 15,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 15,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2017,
+        "dayOfWeek": 6
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2018,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 12,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2021,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 4,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 23,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 6,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2022,
+        "dayOfWeek": 6
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2023,
+        "dayOfWeek": 6
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2024,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 19,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2025,
+        "dayOfWeek": 2
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2026,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2026,
+        "dayOfWeek": 3
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2027,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 15,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2029,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2031,
+        "dayOfWeek": 6
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2031,
+        "dayOfWeek": 2
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2032,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2034,
+        "dayOfWeek": 6
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2035,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2036,
+        "dayOfWeek": 6
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2037,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2037,
+        "dayOfWeek": 3
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2038,
+        "dayOfWeek": 3
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 24,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2039,
+        "dayOfWeek": 6
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+    "englishName": "Epiphany"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "Wielkanoc",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Poniedzia\u0142ek Wielkanocny",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "\u015awi\u0119to Pracy",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "\u015awi\u0119to Konstytucji 3 Maja",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "Zielone \u015awi\u0105tki",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "Bo\u017ce Cia\u0142o",
+    "englishName": "Corpus Christi"
+}, {
+    "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "\u015awi\u0119to Wojska Polskiego",
+    "englishName": "Armed Forces Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "Wszystkich \u015awi\u0119tych",
+    "englishName": "All Saints' Day"
+}, {
+    "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+    "englishName": "Independence Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "Bo\u017ce Narodzenie",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Drugi dzie\u0144 Bo\u017cego Narodzenia",
+    "englishName": "Second day of Christmas"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2040,
+        "dayOfWeek": 7
+    },
+    "localName": "Nowy Rok",
+    "englishName": "New Year's Day"
+}]

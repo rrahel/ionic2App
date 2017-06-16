@@ -1,0 +1,3142 @@
+[{
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2011,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 24,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2011,
+        "dayOfWeek": 2
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 6,
+        "year": 2011,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2011,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2011,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2012,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2012,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2012,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2012,
+        "dayOfWeek": 3
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2013,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 5
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2013,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2013,
+        "dayOfWeek": 4
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2014,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 6
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2014,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2014,
+        "dayOfWeek": 5
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2015,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2015,
+        "dayOfWeek": 6
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 27,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 15,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2016,
+        "dayOfWeek": 2
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2016,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 3
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2017,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2017,
+        "dayOfWeek": 2
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2018,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 4
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 5,
+        "year": 2018,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2018,
+        "dayOfWeek": 3
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2019,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 5
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2019,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2019,
+        "dayOfWeek": 4
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2020,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 12,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 21,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2020,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2020,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2020,
+        "dayOfWeek": 6
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 4,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 23,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2021,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2021,
+        "dayOfWeek": 7
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2022,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 2
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2022,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 6,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2022,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 3
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2023,
+        "dayOfWeek": 2
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 5
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2024,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2024,
+        "dayOfWeek": 4
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2025,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 6
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2025,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2025,
+        "dayOfWeek": 5
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2026,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2026,
+        "dayOfWeek": 6
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2027,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2027,
+        "dayOfWeek": 7
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2028,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 3
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2028,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2028,
+        "dayOfWeek": 2
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2029,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 4
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 5,
+        "year": 2029,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2029,
+        "dayOfWeek": 3
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2030,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 5
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2030,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2030,
+        "dayOfWeek": 4
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2031,
+        "dayOfWeek": 3
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 6
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 5,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 6,
+        "year": 2031,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2031,
+        "dayOfWeek": 5
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2032,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2032,
+        "dayOfWeek": 7
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2033,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 2
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2033,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 6,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2033,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 3
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 18,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2034,
+        "dayOfWeek": 2
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 23,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2035,
+        "dayOfWeek": 4
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2035,
+        "dayOfWeek": 3
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2036,
+        "dayOfWeek": 2
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 6
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 5,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 2,
+        "month": 6,
+        "year": 2036,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2036,
+        "dayOfWeek": 5
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2037,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2037,
+        "dayOfWeek": 6
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 3,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 14,
+        "month": 6,
+        "year": 2038,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2038,
+        "dayOfWeek": 7
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2039,
+        "dayOfWeek": 6
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}, {
+    "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "Skj\u00e6rtorsdag",
+    "englishName": "Maundy Thursday"
+}, {
+    "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 5
+    },
+    "localName": "Langfredag",
+    "englishName": "Good Friday"
+}, {
+    "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste p\u00e5skedag",
+    "englishName": "Easter Sunday"
+}, {
+    "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre p\u00e5skedag",
+    "englishName": "Easter Monday"
+}, {
+    "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste mai",
+    "englishName": "Labour Day"
+}, {
+    "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 2
+    },
+    "localName": "Syttende mai (Grunnlovsdagen)",
+    "englishName": "Constitution Day"
+}, {
+    "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 4
+    },
+    "localName": "Kristi himmelfartsdag",
+    "englishName": "Ascension Day"
+}, {
+    "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste pinsedag",
+    "englishName": "Whit Sunday"
+}, {
+    "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre pinsedag",
+    "englishName": "Whit Monday"
+}, {
+    "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste Juledag",
+    "englishName": "Christmas Day"
+}, {
+    "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2039,
+        "dayOfWeek": 1
+    },
+    "localName": "Andre juledag",
+    "englishName": "St Stephen's Day"
+}, {
+    "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2040,
+        "dayOfWeek": 7
+    },
+    "localName": "F\u00f8rste nytt\u00e5rsdag",
+    "englishName": "New Year's Day"
+}]
