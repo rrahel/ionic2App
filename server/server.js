@@ -8,9 +8,10 @@ var express = require('express'),
     //config = require('./config.js');
 
 
+    let dburl = "mongodb://butjaa:admin@ds123182.mlab.com:23182/holidaychecker-db"
+ 
+    MongoClient.connect(dburl, function (err, db) {
 
-  MongoClient.connect("mongodb://127.0.0.1:27017", function (err, db) {
-   
      if(err) throw err;
      //Write databse Insert/Update/Query code here..   
         db.collection('Persons', function (err, collection) {
@@ -46,10 +47,6 @@ var express = require('express'),
     server.get('/api/:country', endpoints.findByCountry);
     server.get('/api/:country/:dateFrom/:dateTo', endpoints.findByGivenParams);
     //server.get('/api/search?country={country}&dateFrom={dateFrom}&dateTo={dateTo}', endpoints.findByGivenParams);
-
-    //server.get('/holidayslist', holidayslist.findAll);
-    //server.get('/holidayslist/:country', holidayslist.findByCountry);
-    //server.get('/holidayslist/:country/:dateFrom/:dateTo', holidayslist.findByGivenParams);
 
     server.set('port', process.env.PORT || 3000);
     server.listen(server.get('port'), function () {
