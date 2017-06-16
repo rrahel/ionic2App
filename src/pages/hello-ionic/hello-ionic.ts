@@ -1,20 +1,10 @@
-import {
-  Component
-} from '@angular/core';
-import {
-  NavController,
-  NavParams
-} from 'ionic-angular';
-import {
-  ListPage
-} from '../list/list';
-import {
-  Http
-} from '@angular/http';
+import { Component } from '@angular/core';
+import { NavController, NavParams } from 'ionic-angular';
+import { ListPage } from '../list/list';
+import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
-import {
-  Geolocation
-} from 'ionic-native';
+import { Geolocation } from 'ionic-native';
+import { AlertController } from 'ionic-angular';
 
 @Component({
   selector: 'page-hello-ionic',
@@ -23,20 +13,81 @@ import {
 export class HelloIonicPage {
   private posts;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public http: Http) {}
+  constructor(public navCtrl: NavController, public navParams: NavParams, public http: Http, private alertCtrl: AlertController) {
+    if (navigator.geolocation) {
+      var options = {
+        enableHighAccuracy: true
+      };
 
-  getLocation() {
-    Geolocation.getCurrentPosition().then((data) => {
-      var lat = data.coords.latitude;
-      var lng = data.coords.longitude;
-      var GEOCODING = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + lat + '%2C' + lng + '&language=en';
-      this.http.get(GEOCODING)
-        .map(res => res.json())
-        .subscribe(
-          data => this.event.location = data.results[0].address_components[6].long_name
-        );
-    });
+      navigator.geolocation.getCurrentPosition(position=> {
+        console.info('using navigator');
+        console.info(position.coords.latitude);
+        console.info(position.coords.longitude);
+      }, error => {
+        console.log(error);
+      }, options);
+    }
   }
+
+  // getLocation() {
+  //   console.log('----------9999----');
+  //    var options = {
+  //     enableHighAccuracy: true,
+  //     timeout: 5000,
+  //     maximumAge: 0
+  //   };
+  //   Geolocation.getCurrentPosition(options).then((data) => {
+  //     var lat = data.coords.latitude;
+  //     var lng = data.coords.longitude;
+  //     var GEOCODING = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + lat + '%2C' + lng + '&language=en';
+  //     this.http.get(GEOCODING)
+  //       .map(res => res.json())
+  //       .subscribe(
+  //         data => this.event.location = data.results[0].address_components[5].long_name
+  //       );
+  //   }).catch((err)=> {
+  //     let alert = this.alertCtrl.create({
+  //       title: 'Error',
+  //       message: err
+  //     });
+  //     alert.present();
+  //   });
+    
+  // }
+
+// getLocation() {
+//   console.log('func')
+//    var options = {
+//       enableHighAccuracy: true,
+//       maximumAge: 3600000
+//    }
+
+//    var watchID = navigator.geolocation.getCurrentPosition(onSuccess, onError, options);
+//    console.log(watchID)
+//    function onSuccess(position) {
+//     console.log('success')
+//      let alert = this.alertCtrl.create(
+//           'Latitude: '          + position.coords.latitude          + '\n' +
+//          'Longitude: '         + position.coords.longitude         + '\n' +
+//          'Altitude: '          + position.coords.altitude          + '\n' +
+//          'Accuracy: '          + position.coords.accuracy          + '\n' +
+//          'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+//          'Heading: '           + position.coords.heading           + '\n' +
+//          'Speed: '             + position.coords.speed             + '\n' +
+//          'Timestamp: '         + position.timestamp                + '\n'
+//     );
+//     alert.present();
+//    };
+
+//    function onError(error) {
+//       alert('code: '    + error.code    + '\n' + 'message: ' + error.message + '\n');
+//    }
+// }
+
+
+
+
+
 
   public event = {
     location: '',
