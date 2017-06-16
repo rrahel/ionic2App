@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-navbar>
+
+    <ion-title>Item Details</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <h3 text-center *ngIf="selectedItem">
+    {{selectedItem.localName}}
+    <ion-icon [name]="selectedItem.icon"></ion-icon>
+  </h3>
+</ion-content>

@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+
+    <ion-title>My First List</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+
+    <button ion-item *ngFor="let event of events" (click)="eventTapped(event)">     
+      {{event.localName}}
+      <div class="item-note" item-right>
+        {{event.dt}}
+      </div>
+    </button>
+  </ion-list>
+
+</ion-content>
