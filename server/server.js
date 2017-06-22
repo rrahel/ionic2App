@@ -4,15 +4,27 @@ var express = require('express'),
     apiRoutes = require('./routes/restful_api_routes'),
     server = express(),
     MongoClient = require('mongodb').MongoClient,
-    dburl = "mongodb://butjaa:admin@ds123182.mlab.com:23182/holidaychecker-db"
+    dburl = "mongodb://butjaa:admin@ds123182.mlab.com:23182/holidaychecker-db",
+    moment = require('moment');
 
     MongoClient.connect(dburl, function (err, db) {
 
      if(err) throw err;
 
-       // db.collection('countries', function (err, collection) {
-          //collection.updateMany({},{$set: { "country": "Austria" }})
-       // }); 
+   /* db.collection('countries', function(err, collection) {
+        collection.updateMany({},{$set: { "isoDate": "" }})
+        collection.find().snapshot().forEach(
+                function (e) {
+                    
+                var x = moment(e.date, 'DD-MM-YYYY').format();
+                e.isoDate = x;
+                delete e.datum;
+
+                // save the updated document
+                collection.save(e);
+                }
+            )});*/
+
     });
 
     server.use(bodyParser.json());

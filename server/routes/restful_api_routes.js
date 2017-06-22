@@ -1,4 +1,6 @@
 MongoClient = require('mongodb').MongoClient;
+var  moment = require('moment');
+
 
 var dburl = "mongodb://butjaa:admin@ds123182.mlab.com:23182/holidaychecker-db";
 var db;
@@ -42,31 +44,22 @@ exports.delete = function (req, res, next) {
 
 exports.findByGivenParams = function(req, res, next) {
 	var country = req.params.country,
-        dateFrom = req.params.dateFrom,
-        dateTo = req.params.dateTo;
-
-    //var dateObj = new Date(el.date.year,el.date.month-1,el.date.day).getTime(),
-
+        dateFrom = new Date((req.params.dateFrom).toString()),
+        dateTo = new Date((req.params.dateTo).toString()),
+        usrDateFrom = moment(dateFrom, 'YYYY-MM-DD').format(),
+		usrDateTo =  moment(dateTo, 'YYYY-MM-DD').format();
         
-        db.collection('countries', function(err, collection) {
-            collection.aggregate([
-                { $match: { 'date': { $gt: start, $lt: end } } },
-                { $match: { country:new RegExp(country, "i" ) } }
-                ]).toArray(function(err, items) {
-            res.send(items);
-        });
+       db.collection('countries', function(err, collection) {
 
+            collection.find({'country':new RegExp(country, "i" ),
+                            'isoDate':{$gte: usrDateFrom, $lte:usrDateTo}}).toArray(function(err, items) {
+                if (err) {
+                    res.send({'error':'An error has occurred - ' + err});
+                } else {
+                    res.send(items);
+                }
+            });
         });
-
-        /*res.send(response.filter(function (el) {
-		var dateObj = new Date(el.date.year,el.date.month-1,el.date.day).getTime(),
-			usrDateFrom = new Date(dateFrom).getTime(),
-			usrDateTo = new Date(dateTo).getTime(),
-			inRange = dateObj >= usrDateFrom && dateObj <= usrDateTo;
-	
-		    return	inRange == true;
-	    }));*/	
-  
 }
 
 
