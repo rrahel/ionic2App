@@ -5,6 +5,7 @@ import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
 import { Geolocation } from '@ionic-native/geolocation';
+import { LocalNotifications } from '@ionic-native/local-notifications';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,13 @@ import { Geolocation } from '@ionic-native/geolocation';
     ItemDetailsPage,
     ListPage
   ],
-  providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}, Geolocation]
+  providers: [
+      {
+        provide: ErrorHandler, 
+        useClass: IonicErrorHandler
+      }, 
+      Geolocation,
+      LocalNotifications
+    ]
 })
 export class AppModule {}

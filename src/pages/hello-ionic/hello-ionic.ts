@@ -1,36 +1,30 @@
-import {
-  Component
-} from '@angular/core';
-import {
-  NavController,
-  NavParams
-} from 'ionic-angular';
-import {
-  ListPage
-} from '../list/list';
-import {
-  Http
-} from '@angular/http';
+import { Component } from '@angular/core';
+import { NavController, NavParams } from 'ionic-angular';
+import { ListPage } from '../list/list';
+import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
-import {
-  Geolocation
-} from '@ionic-native/geolocation';
-import {
-  AlertController
-} from 'ionic-angular';
+import { Geolocation } from '@ionic-native/geolocation';
+import { AlertController } from 'ionic-angular';
+import { LocalNotifications } from '@ionic-native/local-notifications';
 
 @Component({
   selector: 'page-hello-ionic',
   templateUrl: 'hello-ionic.html'
 })
+
 export class HelloIonicPage {
   private posts;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public http: Http, private alertCtrl: AlertController, private geolocation: Geolocation) {
-
+  constructor(  public navCtrl: NavController, 
+                public navParams: NavParams, 
+                public http: Http, 
+                private alertCtrl: AlertController, 
+                private geolocation: Geolocation,
+                private localNotifications: LocalNotifications  ) {  
   }
 
   getLocation() {
+
     this.geolocation.getCurrentPosition().then((resp) => {
 
       var lat = resp.coords.latitude;
@@ -48,13 +42,21 @@ export class HelloIonicPage {
       });
       alert.present();
     });
-   
   }
 
   public event = {
     location: '',
     startDate: '2017-04-19',
     endDate: '2017-04-19',
+  }
+
+  registerNotifications(){
+    this.localNotifications.schedule({
+      id: 1,
+      text: 'Best Notifivation ever',
+      sound: "file://sounds/reminder.mp3",
+      at: new Date(new Date().getTime() + 3600)
+    });
   }
 
   submitForm() {

@@ -21,11 +21,15 @@
         "@angular/platform-server": "2.4.8",
         "@ionic-native/core": "^3.12.1",
         "@ionic-native/geolocation": "^3.12.1",
+        "@ionic-native/local-notifications": "^3.12.1",
         "@ionic/app-scripts": "^1.1.4",
         "@ionic/storage": "2.0.0",
         "cordova-browser": "^4.1.0",
+        "cordova-plugin-app-event": "file:node_modules/cordova-plugin-app-event",
         "cordova-plugin-compat": "^1.1.0",
+        "cordova-plugin-device": "file:node_modules/cordova-plugin-device",
         "cordova-plugin-geolocation": "^2.4.3",
+        "de.appplant.cordova.plugin.local-notification": "^0.8.5",
         "ionic-angular": "2.2.0",
         "ionic-native": "2.4.1",
         "ionicons": "3.0.0",
@@ -43,7 +47,9 @@
     "cordovaPlatforms": [],
     "description": "MyIonic2Project: An Ionic project",
     "cordova": {
-        "plugins": {},
+        "plugins": {
+            "de.appplant.cordova.plugin.local-notification": {}
+        },
         "platforms": [
             "browser"
         ]
