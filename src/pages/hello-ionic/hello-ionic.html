@@ -24,7 +24,7 @@
           <ion-label>Start Date:</ion-label>
         </ion-col>
         <ion-col col-9>
-          <ion-datetime displayFormat="DD.MM.YYYY" [(ngModel)]="event.startDate" name="startDate"></ion-datetime>
+          <ion-datetime min={{minDate}} max={{maxDate}} displayFormat="DD.MM.YYYY" [(ngModel)]="event.startDate" name="startDate"></ion-datetime>
         </ion-col>
       </ion-row>
       <ion-row>
@@ -32,17 +32,9 @@
           <ion-label>End Date:</ion-label>
         </ion-col>
         <ion-col col-9>
-          <ion-datetime displayFormat="DD.MM.YYYY" [(ngModel)]="event.endDate" name="endDate"></ion-datetime>
+          <ion-datetime min={{minDate}} max={{maxDate}} displayFormat="DD.MM.YYYY" [(ngModel)]="event.endDate" name="endDate"></ion-datetime>
         </ion-col>
-      </ion-row>
-      <ion-row>
-        <ion-col col-3>
-          <ion-label>Get Holiday Notifications</ion-label>
-        </ion-col>
-        <ion-col col-9>
-            <button ion-button type="button" (click)="registerNotifications()">Set Notifictions</button>          
-        </ion-col>
-      </ion-row>
+      </ion-row>      
     </ion-grid>
     
     <button ion-button type="submit" block>Submit</button>

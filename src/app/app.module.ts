@@ -6,13 +6,14 @@ import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
 import { Geolocation } from '@ionic-native/geolocation';
 import { LocalNotifications } from '@ionic-native/local-notifications';
+import { Notifications } from './notifications';
 
 @NgModule({
   declarations: [
     MyApp,
     HelloIonicPage,
     ItemDetailsPage,
-    ListPage
+    ListPage    
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -30,7 +31,8 @@ import { LocalNotifications } from '@ionic-native/local-notifications';
         useClass: IonicErrorHandler
       }, 
       Geolocation,
-      LocalNotifications
+      LocalNotifications,
+      Notifications
     ]
 })
 export class AppModule {}

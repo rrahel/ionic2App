@@ -8,6 +8,8 @@ import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 
 import { ListPage } from '../pages/list/list';
 
+import { Notifications } from './notifications';
+
 
 @Component({
   templateUrl: 'app.html'
@@ -21,7 +23,8 @@ export class MyApp {
 
   constructor(
     public platform: Platform,
-    public menu: MenuController
+    public menu: MenuController,
+    public notify: Notifications
   ) {
     this.initializeApp();
 
@@ -38,6 +41,8 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
       StatusBar.styleDefault();
       Splashscreen.hide();
+      console.log(new Date('1-1-2017'));
+      this.notify.createNotifications();
     });
   }
 
@@ -47,4 +52,6 @@ export class MyApp {
     // navigate to the new page if it is not the current page
     this.nav.setRoot(page.component);
   }
+
+
 }
