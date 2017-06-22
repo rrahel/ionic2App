@@ -11,9 +11,8 @@
     <button ion-item *ngFor="let event of events" (click)="eventTapped(event)">     
       {{event.localName}}
       <div class="item-note" item-right>
-        {{event.dt}}
+        {{event.date.day}}-{{event.date.month}}-{{event.date.year}}
       </div>
     </button>
   </ion-list>
-
 </ion-content>

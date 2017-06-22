@@ -21,10 +21,9 @@ export class ListPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
     this.events = navParams.get('data');
-    // If we navigated to this page, we will have an item available as a nav param
     this.selectedItem = navParams.get('event');
   }
-
+  
   eventTapped(event) {
     console.log(event);
     this.navCtrl.push(ItemDetailsPage, {
