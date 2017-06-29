@@ -30,8 +30,8 @@ export class MyApp {
 
     // set our app's pages
     this.pages = [
-      { title: 'Hello Ionic', component: HomePage },
-      { title: 'My First List', component: ListPage }
+      { title: 'Holiday Checker', component: HomePage },
+      { title: 'Holiday List', component: ListPage }
     ];
   }
 

@@ -14,7 +14,9 @@ import * as moment from 'moment';
 @Component({
   selector: 'home-page',
   templateUrl: 'home-page.html',
-  providers: [HomePageService]
+  providers: [HomePageService], 
+
+  // styleUrls: ['./home-page']
 })
 
 export class HomePage implements OnInit{

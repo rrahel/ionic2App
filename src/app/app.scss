@@ -14,44 +14,49 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
-.content-md {
-    background-color: #252A2D;//#2C3134; 
+.content-md, .content-ios {
+    background-color: #252A2D !important;//#2C3134; 
+    color: #fff !important;
 }
 
-.button-md:hover {
+.button-md:hover, .button-ios:hover {
     background-color: none !important;
 }
 
-.toolbar-background-md {
+.toolbar-background-md, .toolbar-background-ios {
     border-color: #b2b2b2;
     background:  #1D1F21;
 }
 
-.toolbar-title-md {
+.toolbar-title-md, .toolbar-title-ios {
     padding: 5px 15px;
     font-size: 2rem;
     font-weight: 500;
     color: rgba(255,255,255, 0.8);
 }
 
-.label-md {
+.label-md, .label-ios {
     color: #ffF;//rgba(255,255,255, 0.8);
 }
 
-.picker-md .picker-wrapper {
+.picker-md .picker-wrapper, .picker-ios .picker-wrapper {
     height: 260px;
     border-top: 0.55px solid #151718;
     background: #151718;
 }
 
-.picker-md .picker-toolbar {
+.picker-md .picker-toolbar, .picker-ios .picker-toolbar {
     background: #151718;
 }
 
-.picker-md .picker-opt {
+.picker-md .picker-opt, .picker-ios .picker-opt {
     color: rgba(255,255,255, 0.8);
 }
 
 .datetime-text {
     color: #fff;
 }
+
+// .searchbar-ios {
+//     background: #fff;
+// }

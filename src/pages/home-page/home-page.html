@@ -11,7 +11,7 @@
       <ion-row>
         <ion-col col-11>
            <ion-searchbar [(ngModel)]="event.location"
-                    placeholder="Search for countries" name="search" aria-labelledby="searchbutton" (ionInput)="searchCountry($event)"></ion-searchbar>
+                    placeholder="Search for countries" name="search" aria-labelledby="searchbutton" (ionInput)="searchCountry($event)" class="home-search"></ion-searchbar>
             <ion-list *ngIf="showCountryList">
                 <label ion-item *ngFor="let country of countryList" id="searchbutton">
                     {{country}}
