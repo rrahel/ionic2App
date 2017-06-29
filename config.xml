@@ -33,6 +33,9 @@
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
+    <engine name="android" spec="^6.2.3" />
     <engine name="browser" spec="^4.1.0" />
+    <engine name="ios" spec="^4.4.0" />
+    <plugin name="cordova-plugin-geolocation" spec="^2.4.3" />
     <plugin name="de.appplant.cordova.plugin.local-notification" spec="^0.8.5" />
 </widget>

@@ -18,7 +18,7 @@ const GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=
 
 
 @Injectable()
-export class HelloIonicService {
+export class HomePageService {
   private posts;
   public validFrom = '2017-01-01';
   public validTo = '2017-04-19';
