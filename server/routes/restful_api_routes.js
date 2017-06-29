@@ -2,6 +2,7 @@ let moment = require('moment');
 let sanitize = require('express-mongo-sanitize').sanitize;
 let path = require('path');
 let fs = require('fs');
+let ObjectId = require('mongodb').ObjectID;
 
 let config = require("../config.json"),
     MongoClient = require('mongodb').MongoClient,
@@ -70,7 +71,7 @@ exports.findByGivenParams = function(req, res, next) {
 
         collection.find({'country':new RegExp(country, 'i' ),
                         'isoDate':{$gte: usrDateFrom, $lte:usrDateTo}}, 
-                        {localName:1,englishName:1, country:1, description:1, isoDate: 1})
+                        {englishName:1, country:1, isoDate: 1, _id: 1})
                         .sort({isoDate:1}).toArray(function(err, items) {
                             if (err) {
                                 res.send({'error':'An error has occurred - ' + err});
@@ -92,12 +93,12 @@ exports.getCountriesList = function(req, res, next) {
 exports.getImages = function(req, res, next) {
     let id = sanitize(req.params.id);
 
-    collection.find({ _id: id }).toArray(function(err, items) {
+    collection.findOne({'_id': ObjectId(id)}, (function(err, items) {
                 if (err) {
                     res.send({'error':'An error has occurred - ' + err});
                 } else {                
                     res.send(items);
                 }
-        });
+        }));
    
 };

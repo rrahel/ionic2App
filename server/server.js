@@ -104,7 +104,7 @@ let express = require('express'),
     //server.put('/api/:id', apiRoutes.update);
     server.get('/api/:country/:dateFrom/:dateTo', apiRoutes.findByGivenParams);
     //server.get('/api/search?country={country}&dateFrom={dateFrom}&dateTo={dateTo}', apiRoutes.findByGivenParams);
-    server.get('/api/images/:id', apiRoutes.getImages);
+    server.get('/api/event-details/:id', apiRoutes.getImages);
 
 
     
