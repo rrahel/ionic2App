@@ -81,6 +81,7 @@ export class HelloIonicPage implements OnInit{
                     loader.dismiss();
                     this.navCtrl.push(ListPage, {data: this.posts});  
                 } else {
+                      loader.dismiss();
                       let alert = this.alertCtrl.create({
                         title: 'No data available',
                         message: 'There is no data available for the requested location: ' + location + 
