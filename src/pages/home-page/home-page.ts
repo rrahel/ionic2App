@@ -7,17 +7,19 @@ import { Geolocation } from '@ionic-native/geolocation';
 import { AlertController } from 'ionic-angular';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Notifications } from '../../app/notifications';
-import {HelloIonicService} from './hello-ionic-service';
+import {HomePageService} from './home-page-service';
 import * as moment from 'moment';
 
 
 @Component({
-  selector: 'page-hello-ionic',
-  templateUrl: 'hello-ionic.html',
-  providers: [HelloIonicService]
+  selector: 'home-page',
+  templateUrl: 'home-page.html',
+  providers: [HomePageService], 
+
+  // styleUrls: ['./home-page']
 })
 
-export class HelloIonicPage implements OnInit{
+export class HomePage implements OnInit{
   private posts;
   public minDate = "1990-01-01";
   public maxDate = "2038-01-01";
@@ -38,15 +40,15 @@ export class HelloIonicPage implements OnInit{
                 private localNotifications: LocalNotifications,
                 private notify: Notifications,
                 private loadingController: LoadingController,
-                private helloIonicService: HelloIonicService) {}  
+                private HomePageService: HomePageService) {}  
 
   ngOnInit() {
-       this.helloIonicService.getGpsLoc();
        this.initializeCountriesList();
+        this.HomePageService.getGpsLoc();
   }
 
   initializeCountriesList() {
-       this.helloIonicService.getCountryList()
+       this.HomePageService.getCountryList()
                             .subscribe(countries => this.countryList = countries);
   }
 
@@ -56,7 +58,7 @@ export class HelloIonicPage implements OnInit{
     });
     loader.present();
 
-    this.event.location = this.helloIonicService.location;
+    this.event.location = this.HomePageService.location;
 
     if (this.event.location !== '' && this.event.location !== null ) {
         loader.dismiss();
@@ -77,7 +79,7 @@ export class HelloIonicPage implements OnInit{
 
     if(location !== null && location !== '' && startDate !== null && endDate !== null) {
 
-      this.helloIonicService.getHolidays(location, startDate, endDate).subscribe(
+      this.HomePageService.getHolidays(location, startDate, endDate).subscribe(
             data => {
               
               if(data.length !== 0) {
@@ -85,6 +87,7 @@ export class HelloIonicPage implements OnInit{
                     loader.dismiss();
                     this.navCtrl.push(ListPage, {data: this.posts});  
                 } else {
+                      loader.dismiss();
                       let alert = this.alertCtrl.create({
                         title: 'No data available',
                         message: 'There is no data available for the requested location: ' + location + 
@@ -107,8 +110,6 @@ export class HelloIonicPage implements OnInit{
   }
 
    searchCountry(searchbar) {
-     //reset items
-    //this.initializeCountriesList();
 
     let val = searchbar.target.value;
     this.list = this.countryList;

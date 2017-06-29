@@ -1,7 +1,7 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
-import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
+import { HomePage } from '../pages/home-page/home-page';
 import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
 import { Geolocation } from '@ionic-native/geolocation';
@@ -12,7 +12,7 @@ import { Notifications } from './notifications';
 @NgModule({
   declarations: [
     MyApp,
-    HelloIonicPage,
+    HomePage,
     ItemDetailsPage,
     ListPage
 ],
@@ -22,7 +22,7 @@ import { Notifications } from './notifications';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HelloIonicPage,
+    HomePage,
     ItemDetailsPage,
     ListPage
   ],

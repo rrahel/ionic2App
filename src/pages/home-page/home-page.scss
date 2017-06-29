@@ -1,4 +1,4 @@
-page-hello-ionic {
+home-page{
 
       ion-list:first-child {
           //margin-top: 32px;
@@ -43,12 +43,12 @@ page-hello-ionic {
         //color: #fff;
       }
 
-      .searchbar-md .searchbar-input {
+      .searchbar-md .searchbar-input{
         background-color: rgba(255,255,255,0.04); //#1D1F21; 
-        color: #fff;
+        color: #fff !important;
       }
 
-      .searchbar-md {
+      .searchbar-md, .searchbar-ios {
         padding: 10px 10px 10px 0px;
         border-radius: 5px;
       }
@@ -67,8 +67,12 @@ page-hello-ionic {
       ion-datetime {
         float: right;
       }
-
       .item-md {
         background: transparent;
       }
+
+      .searchbar-ios {
+        background: #fff;
+      }
+
 }
