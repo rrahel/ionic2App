@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.myionic2project622234" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MyIonic2Project</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="com.ionicframework.heolidaychecker622234" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Holiday Checker</name>
+    <description>Find out when the next holiday is.</description>
+    <author email="rrahel.cemi@edu.fh-jonneum.at" href="http://ionicframework.com/">Rrahel Cemi</author>
+    <author email="arlinda.butja@edu.fh-jonneum.at" href="http://ionicframework.com/">Arlinda Butja</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="http://ionic.local/*" />
