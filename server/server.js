@@ -9,16 +9,13 @@ let express = require('express'),
     moment = require('moment'),
     fs = require('fs'),  
     http = require('http'),
-    path = require('path'),
-    url = require('url'),
-    imgDir = './images',
-    blob = require('./model/blobs'); //mongo connection;
+    path = require('path'); 
 
     MongoClient.connect(dburl, function (err, db) {
 
      if(err) throw err;
     
-    db.collection('countries', function(err, collection) {
+   // db.collection('countries', function(err, collection) {
        /*collection.updateMany({},{$set: { "image": {
                                             "creationTimeStamp": "",
                                             "name": "",
@@ -26,8 +23,8 @@ let express = require('express'),
                                     } }});*/
        // collection.updateMany({},{$set: { "country": "China" }})
        // collection.updateMany({},{$set: { "description": "" }})
-        collection.find().snapshot().forEach(
-            function (e) {
+    //    collection.find().snapshot().forEach(
+      //      function (e) {
 
          //   var ddate = e.date.day + '-' + e.date.month + '-' + e.date.year;
 
@@ -39,8 +36,8 @@ let express = require('express'),
             //delete e.note;
             // save the updated document
             //collection.save(e);
-            }
-    )});
+   //         }
+   // )});
 
     /*db.collection('countries', function(err, collection) {
 
@@ -103,11 +100,7 @@ let express = require('express'),
     //server.post('/api', apiRoutes.add);
     //server.put('/api/:id', apiRoutes.update);
     server.get('/api/:country/:dateFrom/:dateTo', apiRoutes.findByGivenParams);
-    //server.get('/api/search?country={country}&dateFrom={dateFrom}&dateTo={dateTo}', apiRoutes.findByGivenParams);
     server.get('/api/event-details/:id', apiRoutes.getImages);
-
-
-    
 
     server.set('port', process.env.PORT || 3000);
     server.listen(server.get('port'), function () {

@@ -7,6 +7,8 @@ import { ListPage } from '../pages/list/list';
 import { Geolocation } from '@ionic-native/geolocation';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Notifications } from './notifications';
+import { Pipe, PipeTransform } from '@angular/core';
+import { DatePipe } from '@angular/common';
 
 
 @NgModule({
@@ -33,7 +35,8 @@ import { Notifications } from './notifications';
       }, 
       Geolocation,
       LocalNotifications,
-      Notifications
+      Notifications,
+      DatePipe
     ]
 })
 export class AppModule {}

@@ -1,19 +1,12 @@
-import {
-  Component
-} from '@angular/core';
-
-import {
-  NavController,
-  NavParams
-} from 'ionic-angular';
-
-import {
-  ItemDetailsPage
-} from '../item-details/item-details';
+import {Component} from '@angular/core';
+import {NavController,NavParams} from 'ionic-angular';
+import { ItemDetailsPage} from '../item-details/item-details';
+import { DatePipe } from '@angular/common';
 
 @Component({
   selector: 'page-list',
-  templateUrl: 'list.html'
+  templateUrl: 'list.html',
+  providers: [DatePipe]
 })
 export class ListPage {
   events: any;
@@ -24,10 +17,10 @@ export class ListPage {
     this.selectedItem = navParams.get('event');
   }
   
-  eventTapped(event) {
-    console.log(event);
+  eventTapped(event) {    
     this.navCtrl.push(ItemDetailsPage, {
       event: event
     });
   }
+
 }
