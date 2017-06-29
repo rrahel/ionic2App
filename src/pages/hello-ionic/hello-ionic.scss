@@ -1,3 +1,70 @@
 page-hello-ionic {
 
+      ion-list:first-child {
+          //margin-top: 32px;
+        }
+
+        ion-list+ion-list {
+          margin-top: 0;
+        }
+
+        .gpsLocationBtn {
+          margin-top: 10px;
+          background-image: url('../assets/icon/gps_icon.svg');
+          width: 36px;
+          height: 36px;
+          background-color: transparent;
+          box-shadow: none;
+          border-radius: 5px;
+          
+          & :hover {
+            background-color: rgba(255,255,255,0.04);
+          }
+
+        }
+
+        .button-wrapper {
+          width: 100%;
+          justify-content: center;
+          display: inline-flex;
+
+          & .submitBtn {
+            border-radius: 5px;
+            background-color:  #109ae5;
+            margin: 15px;
+
+            > span {
+              color: #fff;
+            }
+          }
+        }
+
+      span .button-inner {
+        //color: #fff;
+      }
+
+      .searchbar-md .searchbar-input {
+        background-color: rgba(255,255,255,0.04); //#1D1F21; 
+        color: #fff;
+      }
+
+      .searchbar-md {
+        padding: 10px 10px 10px 0px;
+        border-radius: 5px;
+      }
+
+      .row {
+        //padding: 10px;
+        padding: 0px 10px 2px 10px
+      }
+
+      .date-wrapper {
+        & [col-6] {
+          background: rgba(255,255,255,0.04);
+        }
+      }
+
+      ion-datetime {
+        float: right;
+      }
 }

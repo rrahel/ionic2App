@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { LoadingController, NavController, NavParams } from 'ionic-angular';
 import { ListPage } from '../list/list';
 import { Http } from '@angular/http';
@@ -7,80 +7,139 @@ import { Geolocation } from '@ionic-native/geolocation';
 import { AlertController } from 'ionic-angular';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Notifications } from '../../app/notifications';
+import {HelloIonicService} from './hello-ionic-service';
+import * as moment from 'moment';
+
 
 @Component({
   selector: 'page-hello-ionic',
-  templateUrl: 'hello-ionic.html'
+  templateUrl: 'hello-ionic.html',
+  providers: [HelloIonicService]
 })
 
-export class HelloIonicPage {
+export class HelloIonicPage implements OnInit{
   private posts;
   public minDate = "1990-01-01";
   public maxDate = "2038-01-01";
-
-  constructor(  public navCtrl: NavController, 
-                public navParams: NavParams, 
-                public http: Http, 
-                private alertCtrl: AlertController, 
-                private geolocation: Geolocation,
-                private localNotifications: LocalNotifications,
-                public notify: Notifications,
-                public loadingController: LoadingController
-
-  ) {  
-  }  
-
-  getLocation() {   
-    let loader = this.loadingController.create({
-      content: "Getting your location"
-    });
-    loader.present();
-    
-    this.geolocation.getCurrentPosition().then((resp) => {
-
-      var lat = resp.coords.latitude;
-      var lng = resp.coords.longitude;
-      var GEOCODING = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + lat + '%2C' + lng + '&language=en';
-      this.http.get(GEOCODING)
-        .map(res => res.json())
-        .subscribe(
-          data => {
-            loader.dismiss(),
-            this.event.location = data.results[0].address_components[6].long_name
-          }         
-        );
-    }).catch((error) => {
-      let alert = this.alertCtrl.create({
-        title: 'Error',
-        message: error
-      });
-      alert.present();
-    });
-  }
-
   public event = {
-    location: '',
-    startDate: '2017-04-19',
-    endDate: '2017-04-19',
+    location: null,
+    startDate:moment().format(),
+    endDate: moment().format()
+  }
+  public showCountryList: boolean = false;
+
+  public countryList = [];
+
+  constructor(  private navCtrl: NavController, 
+                private navParams: NavParams, 
+                private http: Http, 
+                private alertCtrl: AlertController, 
+                private localNotifications: LocalNotifications,
+                private notify: Notifications,
+                private loadingController: LoadingController,
+                private helloIonicService: HelloIonicService) {}  
+
+  ngOnInit() {
+        this.helloIonicService.getGpsLoc();
+        this.countryList = this.helloIonicService.getCountryList();
+
   }
 
-  submitForm() {
+
+  getLocation() {  
     let loader = this.loadingController.create({
-      content: "Loading your holidays"
+      content: 'Getting your location'
     });
     loader.present();
-    let location = this.event.location;
-    let startDate = this.event.startDate;
-    let endDate = this.event.endDate;
 
-    this.http.get('https://murmuring-retreat-96161.herokuapp.com/api/' + location)
-      .map(res => res.json()).subscribe(
-        data => {
-          this.posts = data,
-          loader.dismiss(),
-          this.navCtrl.push(ListPage, {data: this.posts})        
+    this.event.location = this.helloIonicService.location;
+
+    if (this.event.location !== '' && this.event.location !== null ) {
+        loader.dismiss();
+    }
+
+  }
+
+   submitForm() {
+
+    let loader = this.loadingController.create({
+      content: 'Loading your holidays'
+    });
+    loader.present();
+
+    let location = this.event.location;
+    let startDate = moment(this.event.startDate).format('YYYY-MM-DD');
+    let endDate = moment(this.event.endDate).format('YYYY-MM-DD');
+
+    if(location !== null && location !== '' && startDate !== null && endDate !== null) {
+
+      this.helloIonicService.getHolidays(location, startDate, endDate).subscribe(
+            data => {
+              
+              if(data.length !== 0) {
+                    this.posts = data;
+                    loader.dismiss();
+                    this.navCtrl.push(ListPage, {data: this.posts});  
+                } else {
+                      let alert = this.alertCtrl.create({
+                        title: 'No data available',
+                        message: 'There is no data available for the requested location: ' + location + 
+                        ' on the give data range: ' + startDate + ' to ' + endDate 
+                      });
+                      alert.present();
+                } 
+            }
+          );
+
+    } else {
+       loader.dismiss();
+
+       let alert = this.alertCtrl.create({
+            title: 'All fields are required',
+            message: 'Please fill in all the fields'
+          });
+        alert.present();
+    }
+  }
+
+   searchCountry(searchbar) {
+    // set q to the value of the searchbar
+    //  
+   /* let q = searchbar.target.value;
+
+    // if the value is an empty string don't filter the items
+    if (q.trim() == '') {
+        return;
+    }
+
+   this.countryList.filter((v) => {
+        if (v.toLowerCase().indexOf(q.toLowerCase()) > -1) {
+            return true;
         }
-      );
+        return false;
+    })*/
+
+    let val = searchbar.target.value;
+
+    if (val && val.trim() != '') {
+      
+      // Filter the items
+      this.countryList = this.countryList.filter((item) => {
+        return (item.toLowerCase().indexOf(val.toLowerCase()) > -1);
+      });
+      
+      // Show the results
+      this.showCountryList = true;
+    } else {
+      // hide the results when the query is empty
+      this.showCountryList = false;
+    }
+    
+
+
+
+
+
   }
 
 }

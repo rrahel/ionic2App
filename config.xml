@@ -8,6 +8,8 @@
     <allow-navigation href="http://ionic.local/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <allow-intent href="https://maps.googleapis.com/maps/api/geocode/json?latlng=/*" />
+    <allow-intent href="https://holiday-checker.herokuapp.com/api/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />

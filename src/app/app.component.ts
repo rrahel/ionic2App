@@ -41,7 +41,6 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
       StatusBar.styleDefault();
       Splashscreen.hide();
-      console.log(new Date('1-1-2017'));
       this.notify.createNotifications();
     });
   }

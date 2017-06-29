@@ -1,15 +1,11 @@
-import {
-  AlertController
-} from 'ionic-angular';
-import {
-  LocalNotifications
-} from '@ionic-native/local-notifications';
-import {
-  Platform
-} from 'ionic-angular';
+import { AlertController} from 'ionic-angular';
+import {LocalNotifications} from '@ionic-native/local-notifications';
+import {Platform} from 'ionic-angular';
 import {Injectable } from '@angular/core';
-
 import { Http } from '@angular/http';
+
+const API_URL = 'https://holiday-checker.herokuapp.com/api/';
+
 
 @Injectable()
 export class Notifications {
@@ -20,7 +16,7 @@ export class Notifications {
 
     createNotifications(){
         let now = new Date();
-        // this.http.get('https://murmuring-retreat-96161.herokuapp.com/api/' + location + '/' + now + '/' + new Date(now + 1*30*24*60*60*1000))
+        // this.http.get(API_URL + location + '/' + now + '/' + new Date(now + 1*30*24*60*60*1000))
         // .map(res => res.json()).subscribe(data => {
         //     this.posts = data;            
         // });

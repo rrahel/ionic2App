@@ -8,13 +8,14 @@ import { Geolocation } from '@ionic-native/geolocation';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Notifications } from './notifications';
 
+
 @NgModule({
   declarations: [
     MyApp,
     HelloIonicPage,
     ItemDetailsPage,
-    ListPage    
-  ],
+    ListPage
+],
   imports: [
     IonicModule.forRoot(MyApp)
   ],

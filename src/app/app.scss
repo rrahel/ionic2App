@@ -14,3 +14,44 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.content-md {
+    background-color: #252A2D;//#2C3134; 
+}
+
+.button-md:hover {
+    background-color: none !important;
+}
+
+.toolbar-background-md {
+    border-color: #b2b2b2;
+    background:  #1D1F21;
+}
+
+.toolbar-title-md {
+    padding: 5px 15px;
+    font-size: 2rem;
+    font-weight: 500;
+    color: rgba(255,255,255, 0.8);
+}
+
+.label-md {
+    color: #ffF;//rgba(255,255,255, 0.8);
+}
+
+.picker-md .picker-wrapper {
+    height: 260px;
+    border-top: 0.55px solid #151718;
+    background: #151718;
+}
+
+.picker-md .picker-toolbar {
+    background: #151718;
+}
+
+.picker-md .picker-opt {
+    color: rgba(255,255,255, 0.8);
+}
+
+.datetime-text {
+    color: #fff;
+}

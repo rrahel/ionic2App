@@ -1,17 +1,16 @@
 <ion-header>
   <ion-navbar>
 
-    <ion-title>My First List</ion-title>
+    <ion-title>List of holidays</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
   <ion-list>
-
     <button ion-item *ngFor="let event of events" (click)="eventTapped(event)">     
-      {{event.localName}}
+      {{event.englishName}} - {{event.localName}}
       <div class="item-note" item-right>
-        {{event.date.day}}-{{event.date.month}}-{{event.date.year}}
+        {{event.date}}
       </div>
     </button>
   </ion-list>
