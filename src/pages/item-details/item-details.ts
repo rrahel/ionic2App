@@ -1,11 +1,6 @@
-import {
-  Component
-} from '@angular/core';
-
-import {
-  NavController,
-  NavParams
-} from 'ionic-angular';
+import { Component } from '@angular/core';
+import { NavController,NavParams } from 'ionic-angular';
+import { DomSanitizer, SafeResourceUrl, SafeUrl } from '@angular/platform-browser';
 
 @Component({
   selector: 'page-item-details',
@@ -13,7 +8,11 @@ import {
 })
 export class ItemDetailsPage {
   selectedItem: any;
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(private navCtrl: NavController, private navParams: NavParams, private sanitizer: DomSanitizer) {
     this.selectedItem = navParams.get('event');
+  }
+
+  getBackground(){
+     return this.sanitizer.bypassSecurityTrustStyle(`url(data:image/png;base64,${this.selectedItem.image.base64})`);
   }
 }

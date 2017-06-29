@@ -10,7 +10,14 @@
     {{selectedItem.localName}}
     <ion-icon [name]="selectedItem.icon"></ion-icon>
   </h3>
-  <img src="data:image/png;base64,{{selectedItem.image.base64}}">
+  <h4>Country: {{selectedItem.Country}}</h4>
+  <h4>Date: {{selectedItem.isoDate}}</h4>
 
-  <!--<img [src]="imgSrc">-->
+  <!--<img src="data:image/png;base64,{{selectedItem.image.base64}}">-->
+  <div class="holidayImg" [style.background-image]="getBackground()">
+  </div>
+
+  <div class="description">
+    {{selectedItem.description}}
+  </div>
 </ion-content>
