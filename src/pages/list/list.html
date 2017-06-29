@@ -8,9 +8,9 @@
 <ion-content>
   <ion-list>
     <button ion-item *ngFor="let event of events" (click)="eventTapped(event)">     
-      {{event.englishName}} - {{event.localName}}
+      {{event.englishName}}
       <div class="item-note" item-right>
-        {{event.date}}
+        {{event.isoDate}}
       </div>
     </button>
   </ion-list>

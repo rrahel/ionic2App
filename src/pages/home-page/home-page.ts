@@ -43,8 +43,8 @@ export class HomePage implements OnInit{
                 private HomePageService: HomePageService) {}  
 
   ngOnInit() {
-       this.initializeCountriesList();
-        this.HomePageService.getGpsLoc();
+      this.initializeCountriesList();
+      this.HomePageService.getGpsLoc();
   }
 
   initializeCountriesList() {

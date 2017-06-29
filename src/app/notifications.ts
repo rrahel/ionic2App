@@ -4,6 +4,7 @@ import {Platform} from 'ionic-angular';
 import {Injectable } from '@angular/core';
 import { Http } from '@angular/http';
 
+
 const API_URL = 'https://holiday-checker.herokuapp.com/api/';
 
 
@@ -16,31 +17,36 @@ export class Notifications {
 
     createNotifications(){
         let now = new Date();
-        // this.http.get(API_URL + location + '/' + now + '/' + new Date(now + 1*30*24*60*60*1000))
-        // .map(res => res.json()).subscribe(data => {
-        //     this.posts = data;            
-        // });
-
-        this.localNotifications.cancelAll();
-
-        this.localNotifications.schedule({
-            id: 1,
-            title: 'Attention',
-            text: 'Notification',
-            data: { mydata: 'My hidden message this is' },
-            at: new Date(new Date().getTime() + 10 * 1000)            
-        });
-        
-        
-        this.localNotifications.on('click', (notification, state) => {
-            let json = JSON.parse(notification.data);
-        
+        this.http.get(API_URL + location + '/' + now + '/' + new Date(now + '1*30*24*60*60*1000'))
+        .map(res => res.json()).subscribe(data => {
+            this.posts = data;            
             let alert = this.alertCtrl.create({
-                title: notification.title,
-                subTitle: json.mydata
+                title: this.posts.englishName,
+                subTitle: this.posts
             });
             alert.present();
-        })
+        });
+
+        // this.localNotifications.cancelAll();
+
+        // this.localNotifications.schedule({
+        //     id: 1,
+        //     title: 'Attention',
+        //     text: 'Notification',
+        //     data: { mydata: 'My hidden message this is' },
+        //     at: new Date(new Date().getTime() + 10 * 1000)            
+        // });
+        
+        
+        // this.localNotifications.on('click', (notification, state) => {
+        //     let json = JSON.parse(notification.data);
+        
+        //     let alert = this.alertCtrl.create({
+        //         title: notification.title,
+        //         subTitle: json.mydata
+        //     });
+        //     alert.present();
+        // })
 
         
     }
