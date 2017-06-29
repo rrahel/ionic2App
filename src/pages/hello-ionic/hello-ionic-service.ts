@@ -72,17 +72,10 @@ export class HelloIonicService {
   }
 
 
-  public getCountryList(): any {
-    let countryList = [];
+  public getCountryList(): Observable<any> {
 
-     this.http.get(`${API_COUNTRIES_LIST}`)
-      .map((res, i) => res.json()).subscribe(
-        (data) => {
-          countryList = data;
-        }
-      );
-
-      return countryList;
+    return this.http.get(`${API_COUNTRIES_LIST}`)
+                .map(res => res.json())
   }
 
   handleError(error) {

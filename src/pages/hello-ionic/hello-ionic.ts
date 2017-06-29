@@ -29,6 +29,7 @@ export class HelloIonicPage implements OnInit{
   public showCountryList: boolean = false;
 
   public countryList = [];
+  public list = [];
 
   constructor(  private navCtrl: NavController, 
                 private navParams: NavParams, 
@@ -40,11 +41,14 @@ export class HelloIonicPage implements OnInit{
                 private helloIonicService: HelloIonicService) {}  
 
   ngOnInit() {
-        this.helloIonicService.getGpsLoc();
-        this.countryList = this.helloIonicService.getCountryList();
-
+       this.helloIonicService.getGpsLoc();
+       this.initializeCountriesList();
   }
 
+  initializeCountriesList() {
+       this.helloIonicService.getCountryList()
+                            .subscribe(countries => this.countryList = countries);
+  }
 
   getLocation() {  
     let loader = this.loadingController.create({
@@ -103,28 +107,16 @@ export class HelloIonicPage implements OnInit{
   }
 
    searchCountry(searchbar) {
-    // set q to the value of the searchbar
-    //  
-   /* let q = searchbar.target.value;
-
-    // if the value is an empty string don't filter the items
-    if (q.trim() == '') {
-        return;
-    }
-
-   this.countryList.filter((v) => {
-        if (v.toLowerCase().indexOf(q.toLowerCase()) > -1) {
-            return true;
-        }
-        return false;
-    })*/
+     //reset items
+    //this.initializeCountriesList();
 
     let val = searchbar.target.value;
-
+    this.list = this.countryList;
+    
     if (val && val.trim() != '') {
       
       // Filter the items
-      this.countryList = this.countryList.filter((item) => {
+     this.list = this.countryList.filter((item) => {
         return (item.toLowerCase().indexOf(val.toLowerCase()) > -1);
       });
       

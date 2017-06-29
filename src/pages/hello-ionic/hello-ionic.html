@@ -13,7 +13,7 @@
            <ion-searchbar [(ngModel)]="event.location"
                     placeholder="Search for countries" name="search" aria-labelledby="searchbutton" (ionInput)="searchCountry($event)"></ion-searchbar>
             <ion-list *ngIf="showCountryList">
-                <label ion-item *ngFor="let country of countryList" id="searchbutton">
+                <label ion-item *ngFor="let country of list" id="searchbutton">
                     {{country}}
                 </label>
             </ion-list> 

@@ -18,8 +18,12 @@ let express = require('express'),
 
      if(err) throw err;
     
-    db.collection('test', function(err, collection) {
-       // collection.updateMany({},{$set: { "isoDate": "" }})
+    db.collection('countries', function(err, collection) {
+       /*collection.updateMany({},{$set: { "image": {
+                                            "creationTimeStamp": "",
+                                            "name": "",
+                                            "base64": ""
+                                    } }});*/
        // collection.updateMany({},{$set: { "country": "China" }})
        // collection.updateMany({},{$set: { "description": "" }})
         collection.find().snapshot().forEach(
@@ -27,13 +31,14 @@ let express = require('express'),
 
          //   var ddate = e.date.day + '-' + e.date.month + '-' + e.date.year;
 
-           // e.date = ddate;
+            //e.image.creationTimeStamp = moment().format();
+            //e.image.name = "defaultImage";
 
            // var x = moment(e.date, 'DD-MM-YYYY').format();
             //e.isoDate = x;
-            delete e.note;
+            //delete e.note;
             // save the updated document
-            collection.save(e);
+            //collection.save(e);
             }
     )});
 
@@ -91,7 +96,7 @@ let express = require('express'),
 
     server.get('/', apiRoutes.getFirstPage);
     server.get('/api', apiRoutes.findAll);
-    server.get('/apicountries', apiRoutes.getCountriesList);
+    server.get('/api/countries', apiRoutes.getCountriesList);
     server.get('/api/:country', apiRoutes.findByCountry);
     server.delete('/api/:country', apiRoutes.delete);
     //server.get('/api/:id', apiRoutes.findById);
@@ -99,7 +104,7 @@ let express = require('express'),
     //server.put('/api/:id', apiRoutes.update);
     server.get('/api/:country/:dateFrom/:dateTo', apiRoutes.findByGivenParams);
     //server.get('/api/search?country={country}&dateFrom={dateFrom}&dateTo={dateTo}', apiRoutes.findByGivenParams);
-    //server.get('/images', apiRoutes.getImages);
+    server.get('/api/images/:id', apiRoutes.getImages);
 
 
     
