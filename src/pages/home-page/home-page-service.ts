@@ -13,7 +13,7 @@ import {Injectable } from '@angular/core';
 
 
 const API_URL = 'https://holiday-checker.herokuapp.com/api';
-const API_COUNTRIES_LIST = 'https://holiday-checker.herokuapp.com/apicountries';
+const API_COUNTRIES_LIST = 'https://holiday-checker.herokuapp.com/api/countries';
 const GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=';
 
 

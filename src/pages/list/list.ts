@@ -2,25 +2,34 @@ import {Component} from '@angular/core';
 import {NavController,NavParams} from 'ionic-angular';
 import { ItemDetailsPage} from '../item-details/item-details';
 import { DatePipe } from '@angular/common';
+import { ListService } from './list-service';
+
 
 @Component({
   selector: 'page-list',
   templateUrl: 'list.html',
-  providers: [DatePipe]
+  providers: [DatePipe, ListService]
 })
 export class ListPage {
   events: any;
   selectedItem: any;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(private navCtrl: NavController, private navParams: NavParams, private listService: ListService) {
     this.events = navParams.get('data');
     this.selectedItem = navParams.get('event');
   }
   
-  eventTapped(event) {    
-    this.navCtrl.push(ItemDetailsPage, {
-      event: event
-    });
+ 
+  eventTapped(event) {
+    
+    this.listService.getEvent(event._id).subscribe(
+      data => {
+        console.log(data);
+        this.navCtrl.push(ItemDetailsPage, {
+          event: data
+        });
+      }
+    );    
   }
 
 }
