@@ -3,7 +3,6 @@ import { LoadingController, NavController, NavParams } from 'ionic-angular';
 import { ListPage } from '../list/list';
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
-import { Geolocation } from '@ionic-native/geolocation';
 import { AlertController } from 'ionic-angular';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Notifications } from '../../app/notifications';

@@ -1,6 +1,6 @@
-import { Component } from '@angular/core';
+// import { Component } from '@angular/core';
 import { LoadingController, NavController, NavParams } from 'ionic-angular';
-import { ListPage } from '../list/list';
+// import { ListPage } from '../list/list';
 import { Http } from '@angular/http';
 import {Observable} from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
@@ -19,7 +19,6 @@ const GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=
 
 @Injectable()
 export class HomePageService {
-  private posts;
   public validFrom = '2017-01-01';
   public validTo = '2017-04-19';
   public location = '';
