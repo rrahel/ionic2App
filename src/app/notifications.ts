@@ -33,15 +33,11 @@ export class Notifications {
   }
 
   public createNotifications() {
-    let now = moment(new Date()).format('YYYY-MM-DD');
-    let endDate = moment(now).add('days', 60).format('YYYY-MM-DD');
-    let time = new Date(new Date().getTime() + 5 * 1000);
+    let today = moment(new Date()).format('YYYY-MM-DD');
     let index = 0;
-
-    this.http.get(API_URL + '/' + this.location + '/' + now + '/' + endDate)
+    this.http.get(API_URL + '/' + this.location + '/' + today + '/' + today)
       .map(res => res.json()).subscribe(data => {
         data.forEach(element => {
-
           this.localNotifications.schedule({
             id: index,
             title: 'Holiday',
@@ -50,12 +46,12 @@ export class Notifications {
               eventCountry: element.country,
               eventTitle: element.englishName,
               eventDate: moment(element.isoDate).format('DD.MM.YYYY')
-            },
-            at: time
+            }
           });
           index++;
         });
       });
+
 
     this.localNotifications.on('click', (notification, state) => {
       let json = JSON.parse(notification.data);
@@ -68,12 +64,8 @@ export class Notifications {
     })
   }
 
-
-
   public getLocation() {
     let lat, lng;
-
-
       this.geolocation.getCurrentPosition().then((resp) => {
 
         lat = resp.coords.latitude;
