@@ -19,10 +19,8 @@ export class ListPage {
   
   eventTapped(event) {
 
-    console.log(event._id);
     this.listService.getEvent(event._id).subscribe(
       data => {
-        console.log(data);
         this.navCtrl.push(ItemDetailsPage, {
           event: data
         });
