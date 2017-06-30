@@ -5,11 +5,11 @@ NodeJs, Express, and Mongodb database are the technologies used for the implemen
 Plugins to be installed:
 
 cordova plugin add [plugin_name]
-    ... cordova-plugin-app-event
-    ... cordova-plugin-compat
-    ... cordova-plugin-geolocation
-    ... cordova-plugin-whitelist
-    ... de.applant.cordova.plugin.local-notification
+    ...cordova-plugin-app-event
+    ...cordova-plugin-compat
+    ...cordova-plugin-geolocation
+    ...cordova-plugin-whitelist
+    ...de.applant.cordova.plugin.local-notification
 
 Install platforms:
     - cordova platform add ios
