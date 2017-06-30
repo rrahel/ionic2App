@@ -11,72 +11,35 @@ let express = require('express'),
     http = require('http'),
     path = require('path'); 
 
-    MongoClient.connect(dburl, function (err, db) {
+  //  MongoClient.connect(dburl, function (err, db) {
 
-     if(err) throw err;
+   //  if(err) throw err;
     
-   // db.collection('countries', function(err, collection) {
-       /*collection.updateMany({},{$set: { "image": {
+  /* db.collection('countries', function(err, collection) {
+      /* collection.updateMany({},{$set: { "image": {
                                             "creationTimeStamp": "",
                                             "name": "",
-                                            "base64": ""
+                                            "base64": "",
+                                            "type": ""
                                     } }});*/
        // collection.updateMany({},{$set: { "country": "China" }})
        // collection.updateMany({},{$set: { "description": "" }})
-    //    collection.find().snapshot().forEach(
-      //      function (e) {
+    /* collection.find().snapshot().forEach(
+         function (e) {
 
          //   var ddate = e.date.day + '-' + e.date.month + '-' + e.date.year;
 
             //e.image.creationTimeStamp = moment().format();
             //e.image.name = "defaultImage";
-
+            //e.image.type = "png";
            // var x = moment(e.date, 'DD-MM-YYYY').format();
             //e.isoDate = x;
-            //delete e.note;
+            delete e.date;
             // save the updated document
-            //collection.save(e);
-   //         }
-   // )});
-
-    /*db.collection('countries', function(err, collection) {
-
-        collection.find().snapshot().forEach(
-                function (e) {
-                //delete e.dayOfWeek;
-                delete e.note;
-                // save the updated document
-                collection.save(e);
-        }
-    )});*/
-
-    /*db.collection('test', function(err, collection) {
-        collection.updateMany({},{$set: { 'image': '' }})
-        collection.find().snapshot().forEach(
-                function (e) {
-                    
-                    var bucket = new mongodb.GridFSBucket(collection, {
-                        chunkSizeBytes: 1024,
-                        bucketName: 'images'
-                        });
-                        
-                        fs.createReadStream('C:\Users\test\Downloads\fig1.jpg').pipe(
-                        bucket.openUploadStream('figure1.jpg')).on('error', function(error) {
-                        console.log('Error:-', error);
-                        }).on('finish', function() {
-                        console.log('File Inserted!!');
-                        process.exit(0);
-                    });
-                    
-               // e.image = x;
-                //delete e.datum;
-
-                // save the updated document
-               // collection.save(e);
-                }
-            )});*/
-
-    });
+            collection.save(e);
+            }
+   )});*/
+  //  });
 
 
     server.use(bodyParser.json());
@@ -104,5 +67,5 @@ let express = require('express'),
 
     server.set('port', process.env.PORT || 3000);
     server.listen(server.get('port'), function () {
-        console.log('Express server listening on port ' + server.get('port'));
+        //console.log('Express server listening on port ' + server.get('port'));
     });
