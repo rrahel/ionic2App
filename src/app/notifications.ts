@@ -38,7 +38,6 @@ export class Notifications {
     let time = new Date(new Date().getTime() + 5 * 1000);
     let index = 0;
 
-    console.log(API_URL + '/' + this.location + '/' + now + '/' + endDate);
     this.http.get(API_URL + '/' + this.location + '/' + now + '/' + endDate)
       .map(res => res.json()).subscribe(data => {
         data.forEach(element => {
@@ -60,7 +59,6 @@ export class Notifications {
 
     this.localNotifications.on('click', (notification, state) => {
       let json = JSON.parse(notification.data);
-      console.log(json);
       let alert = this.alertCtrl.create({
         title: 'Holiday Checker',
         subTitle: json.eventTitle,
