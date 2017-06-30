@@ -21,3 +21,4 @@ To build the app for IOS and Android:
 
 To run the app:
     - ionic serve
+
