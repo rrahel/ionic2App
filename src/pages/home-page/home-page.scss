@@ -46,12 +46,19 @@ home-page{
 
       .searchbar-ios {
         background: none !important;
+
+        & .searchbar-input {
+          background-color:  rgba(255,255,255,0.04) !important; 
+          color: #fff !important;
+        }
       }
 
       .searchbar-md, .searchbar-ios {
         padding: 10px 10px 10px 0px;
         border-radius: 5px;
       }
+
+      
 
       .row {
         //padding: 10px;
