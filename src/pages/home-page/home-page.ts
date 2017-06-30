@@ -1,11 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { LoadingController, NavController, NavParams } from 'ionic-angular';
+import { LoadingController, NavController } from 'ionic-angular';
 import { ListPage } from '../list/list';
-import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 import { AlertController } from 'ionic-angular';
-import { LocalNotifications } from '@ionic-native/local-notifications';
-import { Notifications } from '../../app/notifications';
 import {HomePageService} from './home-page-service';
 import * as moment from 'moment';
 
@@ -33,11 +30,7 @@ export class HomePage implements OnInit{
   public list = [];
 
   constructor(  private navCtrl: NavController, 
-                private navParams: NavParams, 
-                private http: Http, 
                 private alertCtrl: AlertController, 
-                private localNotifications: LocalNotifications,
-                private notify: Notifications,
                 private loadingController: LoadingController,
                 private HomePageService: HomePageService) {}  
 
