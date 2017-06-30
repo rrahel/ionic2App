@@ -26,8 +26,6 @@ const GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=
 
 @Injectable()
 export class Notifications {
-  private posts = [];
-  private eventJSON = [];
   private location = '';
 
   constructor(private platform: Platform, private geolocation: Geolocation, private alertCtrl: AlertController, private localNotifications: LocalNotifications, private plt: Platform, public http: Http) {
@@ -36,7 +34,7 @@ export class Notifications {
 
   public createNotifications() {
     let now = moment(new Date()).format('YYYY-MM-DD');
-    let endDate = moment(now).add('days', 5).format('YYYY-MM-DD');
+    let endDate = moment(now).add('days', 60).format('YYYY-MM-DD');
     let time = new Date(new Date().getTime() + 5 * 1000);
     let index = 0;
 
