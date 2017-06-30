@@ -21,3 +21,9 @@ To build the app for IOS and Android:
 
 To run the app:
     - ionic serve
+
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
