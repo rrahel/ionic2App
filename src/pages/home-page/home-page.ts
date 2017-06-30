@@ -126,13 +126,13 @@ export class HomePage implements OnInit{
     } else {
       // hide the results when the query is empty
       this.showCountryList = false;
-    }
-    
-
-
-
-
+    } 
 
   }
+
+   setCountry(countryName) {
+      this.showCountryList = false;
+      this.event.location = countryName;
+    }
 
 }

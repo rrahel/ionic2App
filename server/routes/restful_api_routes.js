@@ -49,7 +49,7 @@ exports.delete = function (req, res, next) {
         if (err) {
             res.send({'error':'An error has occurred - ' + err});
         } else {
-            console.log('' + result + ' document(s) deleted');
+            //console.log('' + result + ' document(s) deleted');
             res.send(req.body);
         }
     });

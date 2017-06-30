@@ -70,3 +70,12 @@
 // .searchbar-ios {
 //     background: #fff;
 // }
+
+.alert-wrapper {
+    background: #1D1F21 !important;
+    color: rgba(255,255,255, 0.8) !important;
+
+    & .alert-message {
+        color: #fff;
+    }
+}

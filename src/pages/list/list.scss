@@ -3,11 +3,16 @@ page-list {
     .item-md, .item-ios {
         background: rgba(255,255,255,0.04);//#313639;
         color: white;
-        padding-right: 16px;
+        padding-right: 20px;
+        padding-left: 20px;
 
         & .item-inner {
-            border-bottom: 0.1px solid #252A2D;
+            border-bottom: 0.1px solid rgba(255,255,255,0.1) !important;
             padding-right: 0px !important;
         }
+    }
+
+    .item-md [item-right] {
+        padding: 9px 0px;
     }
 }
