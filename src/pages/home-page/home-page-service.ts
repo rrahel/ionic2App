@@ -78,12 +78,6 @@ export class HomePageService {
   }
 
   handleError(error) {
-     /*let alert = this.alertCtrl.create({
-            title: 'An error occured',
-            message: error
-          });
-          alert.present();
-*/
       return Observable.throw(error || 'Server error');
   }
 

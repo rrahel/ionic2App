@@ -23,6 +23,13 @@ home-page{
 
         }
 
+        .calendar-icon {
+          width: 18px;
+          height: 18px;
+          background-image: url('../assets/icon/calendar_icon.png');
+          background-color: transparent;
+        }
+
         .button-wrapper {
           width: 100%;
           justify-content: center;
@@ -71,8 +78,18 @@ home-page{
         background: transparent;
       }
 
+      .label-md {
+        margin: 13px 8px 13px 5px;
+      }
+
       .searchbar-ios {
         background: #fff;
+      }
+
+      
+
+      .picker-ios .picker-above-highlight, .picker-ios .picker-below-highlight {
+        background-color: #000 !important;
       }
 
 }

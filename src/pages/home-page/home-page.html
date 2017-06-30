@@ -11,11 +11,15 @@
       <ion-row>
         <ion-col col-11>
            <ion-searchbar [(ngModel)]="event.location"
-                    placeholder="Search for countries" name="search" aria-labelledby="searchbutton" (ionInput)="searchCountry($event)" class="home-search"></ion-searchbar>
+                          placeholder="Search for countries" 
+                          name="search" aria-labelledby="searchbutton" 
+                          (ionInput)="searchCountry($event)" 
+                          class="home-search">
+            </ion-searchbar>
             <ion-list *ngIf="showCountryList">
-                <label ion-item *ngFor="let country of list" id="searchbutton">
+                <button ion-item *ngFor="let country of list" id="searchbutton" (click)="setCountry($event)">
                     {{country}}
-                </label>
+                </button>
             </ion-list> 
         </ion-col>
         <ion-col col-1>
@@ -24,18 +28,29 @@
       </ion-row>
       <ion-row class="date-wrapper">
         <ion-col col-6>
-          <ion-label>Start Date:</ion-label>
+          <ion-label>Date from:</ion-label>
         </ion-col>
         <ion-col col-6>
-          <ion-datetime class="datetime" min={{minDate}} max={{maxDate}} pickerFormat="DD-MM-YYYY" [(ngModel)]="event.startDate" name="startDate"></ion-datetime>
+          <ion-datetime class="datetime" min={{minDate}} max={{maxDate}} 
+                                        pickerFormat="DD-MM-YYYY" 
+                                        [(ngModel)]="event.startDate" 
+                                        name="startDate">
+          </ion-datetime>
         </ion-col>
       </ion-row>
       <ion-row class="date-wrapper">
         <ion-col col-6>
-          <ion-label>End Date:</ion-label>
+          <ion-label>Date to:</ion-label>
         </ion-col>
         <ion-col col-6>
-          <ion-datetime class="datetime" min={{minDate}} max={{maxDate}} pickerFormat="DD-MM-YYYY" [(ngModel)]="event.endDate" name="endDate"></ion-datetime>
+          <div class="datepicker">
+          <ion-datetime class="datetime" min={{minDate}} max={{maxDate}} 
+                                         pickerFormat="DD-MM-YYYY" 
+                                         [(ngModel)]="event.endDate" 
+                                         name="endDate">
+          </ion-datetime>
+          <div class="calendar-icon"> </div>
+          </div>
         </ion-col>
       </ion-row>      
     </ion-grid>
@@ -43,5 +58,4 @@
     <button class="submitBtn" ion-button type="submit" block>Submit</button>
     </div>
   </form>
-
 </ion-content>
