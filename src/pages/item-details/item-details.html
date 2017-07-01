@@ -14,15 +14,10 @@
     <label>Country: {{selectedItem.country}}</label>
     <label>Date: {{selectedItem.isoDate |  date:'dd-MM-yyyy' }}</label>
   </div>
-  <!--<img src="data:image/png;base64,{{selectedItem.image.base64}}">-->
   <div class="holidayImg" [style.background-image]="getBackground()">
   </div>
 
   <div class="description">
-    By default, physical interface (used for VXLAN tunneling) has an MTU of 1500 octets and when LB agent creates a VXLAN interface, 
-    the MTU is automatically 50 octets less than the physical interface (so 1450). Therefore, the VXLAN interface has an MTU of 1450 octets.
-     So the bridge could only forward packets of length smaller than 1450 octets to VXLAN interface. But the interfaces used to link network 
-     namespaces and bridges are spawn by dhcp agents (and other agents) with an MTU of 1500 octets.
     {{selectedItem.description}}
   </div>
 </ion-content>
