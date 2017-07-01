@@ -10,6 +10,10 @@ export class ItemDetailsPage {
   selectedItem: any;
   constructor(private navCtrl: NavController, private navParams: NavParams, private sanitizer: DomSanitizer) {
     this.selectedItem = navParams.get('event');
+
+    if (this.selectedItem.description === "") {
+      this.selectedItem.description = "There is no additional description about this event.";
+    }
   }
 
   getBackground(){
