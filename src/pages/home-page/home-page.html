@@ -17,7 +17,7 @@
                           class="home-search">
             </ion-searchbar>
             <ion-list *ngIf="showCountryList">
-                <button ion-item *ngFor="let country of list" id="searchbutton" (click)="setCountry($event)">
+                <button ion-item *ngFor="let country of list" id="searchbutton" (click)="setCountry(country)">
                     {{country}}
                 </button>
             </ion-list> 
